@@ -12,14 +12,21 @@ Retro-Engineered Arrangements Library
  # Philosophy
 
 A0. The difference between a real midi and an original sound track should be subtle or very subtle, or sounding almost completely like the original, to the exception of sung / human voice tracks.
+
 A1. If you play the original file along with this real midi, there shall be no , or very little, difference. 
+
 A2. If you play the original file, mute it, then mute the midi, listen to the original, back and forth several times, you should hear no difference. 
 
 # Method
 
-1. Volume is NEVER set on the beginning of the composition, but after the end. Usually at bar 150 or 300 or 450 or 600. It allows you to start from the original sounding, and modify subtly as per your enjoyment.
+1. Volume is NEVER set on the beginning of the composition, but after the end of it. Usually at bar 150 or 300 or 450 or 600. 
+Why ? 
+It allows you to start from the original sounding, and modify subtly as per your enjoyment.
+
 2. CC#11 is used in conjunction with CC Velocity to control the track's volume.
-3. Additional tracks of DRUM TRACKS are sometimes purposely kept away from Track channel #10 (which is used for drums, usually). This is in order to adress suble differences (volume rises etc.).
+
+3. Additional tracks of DRUM TRACKS are purposely kept away from Track channel #10 (which is used for drums, usually). This is in order to adress suble differences (volume rises etc.).
+
 In such case, the BIRDS GM sound program is set. You need to modify it back to a drum sound (still it keeps the channel midi not equal to #10).
 
 # Organization
