@@ -1,18 +1,19 @@
 # Real_M.I.D.I
 Real Midi : authentic real-life sounding MIDI compositions &amp; arrangements
+Retro-Engineered Arrangements Library
 
 # Features
 
 1. Import MIDI file
-2. set good sounding instruments.
-3. volume is indicated in bar number 150 or 300 or 450 or 600, modify if desired so.
-4. Play. Enjoy !
+2. Set good sounding instruments on each track.
+3. Set volume as per your choice, or set the volume set/indicated at bar number 150 or 300 or 450 or 600.
+4. Play. Enjoy the real or almost real arrangements !
    
  # Philosophy
 
-A. The difference should be subtle or sounding almost completely like the original (to the exception of sung / human voice tracks).
+A0. The difference between a real midi and an original sound track should be subtle or very subtle, or sounding almost completely like the original, to the exception of sung / human voice tracks.
 A1. If you play the original file along with this real midi, there shall be no , or very little, difference. 
-A2. If you play the original file, mute it, listen, and then mute the midi, listen to the original, back and forth, you should hear no difference. 
+A2. If you play the original file, mute it, then mute the midi, listen to the original, back and forth several times, you should hear no difference. 
 
 # Method
 
