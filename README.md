@@ -1,5 +1,7 @@
 # Real_M.I.D.I
-Real Midi : authentic real-life sounding MIDI compositions &amp; arrangements that sufficiently well written to replace the original.
+
+The MIDI "real" stuff.
+Real Midi : authentic real-life sounding, human sounding, MIDI compositions / arrangements that are sounding like or almost like the original.
 
 Retro-Engineered Arrangements Library
 
