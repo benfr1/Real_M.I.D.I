@@ -41,7 +41,7 @@ For instance :
 Once upon a time in space > P18 > ieuflesp18.mid represents the tune number 18 ("P18" P for Piste which means Track in french) inside of the album "Once upon a time in space".
 This allows, in the future, to have either a single midi file with different versions, or , even, a different midi name if someone wishes to says it's "this" or "that" personal version.
 
-# Method to produce Real MIDI 
+# Method to produce Real MIDI (for composers)
 
 1. Define the absolutely right TEMPO. Do not go any further until set.
 2. One instrument at a time : from beginning to end.
@@ -56,3 +56,10 @@ This is produced by Benny Graal and it is available for all passionates.
 Put the midi file on your instrument and allocate instruments. Play it at measure 150/300/450/600 in order to finely preset the tracks volumes.
 Play or your Synth
 Dance, play over it, ENJOY !
+
+# White Paper
+
+Often, when downloading open source or free MIDI files, and comparing them to the original, it is obvious that the midi file is NOT the original; more often, a copy inspired from it. The purpose of the "real midi label" creation here is to garantee, like an "AOC" (Appellation d'Origine Controlée in french food), to garantee the maximum proximity to the original.
+Therefore, it is understandable that the purpose is not to create music around or from a tune, but to sincerely express it to the highest factor of resemblance.
+
+ 
