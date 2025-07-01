@@ -53,7 +53,8 @@ This is produced by Benny Graal and it is available for all passionates.
 
 # Use
 
-Put the midi file on your instrument and allocate instruments. Play it at measure 150/300/450/600 in order to finely preset the tracks volumes.
+Put the midi file on your instrument and allocate instruments. Play it at measure 150/300/450/600 in order to initially finely preset the tracks volumes.
+Tracks allocated to sound "Birds" must be mapped to a "Drums" sound. 
 Play or your Synth
 Dance, play over it, ENJOY !
 
