@@ -8,17 +8,22 @@ Retro-Engineered Arrangements Library
 # Features
 
 1. Import MIDI file
-2. Set good sounding instruments on each track.
+2. Set good sounding instruments on each track using the GM sound set from the file as the start base.
 3. Set volume as per your choice, or set the volume set/indicated at bar number 150 or 300 or 450 or 600.
 4. Play. Enjoy the real or almost real arrangements !
    
  # Philosophy
 
-A0. The difference between a real midi and an original sound track should be subtle or very subtle, or sounding almost completely like the original, to the exception of sung / human voice tracks.
+A0. The difference between a real midi and an original sound track should be subtle or very subtle, or sounding almost completely like the original, to the exception of sung / human voice tracks, provided good quality sound banks are used.
 
 A1. If you play the original file along with this real midi, there shall be no , or very little, difference. 
 
 A2. If you play the original file, mute it, then mute the midi, listen to the original, back and forth several times, you should hear no difference. 
+
+A3a. When the original sound does not exist in the default GM sound bank, an alternate sound is used, which may lower somehow the similarity to the original. This is an acceptable deviation possibility from the original.
+
+A3b. For those sounds, it is good practice to select a close enough sound from another sound bank, external from the GM sound set. 
+The drawback is that the user has to listen to the original sound, which may not be easily accessible.
 
 # Method
 
